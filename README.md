@@ -5,3 +5,4 @@ Dalam watershed.py ini merupakan sedikit bagian dari Watershed Transform. Bagian
 
 ``` listpixcel = matriks.tolist ()```
 
+Hasil gambar berupa ```images_grayscale.png ``` yang dapat di lihat pada repository ini
